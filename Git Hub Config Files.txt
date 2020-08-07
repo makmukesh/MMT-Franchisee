@@ -1,0 +1,44 @@
+
+
+
+git init
+git config user.email appversatile1@gmail.com
+git config user.name versatileApp
+git add .
+git commit -m "first commit"
+git remote add origin https://github.com/versatileApp/HMBLeadAdmin.git
+ git push -u origin master
+
+/*************/*/*/**/**/***/**
+Versatile@2019
+
+A/c Details
+makmukesh
+mjversatile@1234
+
+***********************************************************
+
+git config --global user.name "Versatile"
+
+git config --global user.email "Versatileit2019@gmail.com"
+
+git config user.name makmukesh
+
+
+
+---------------- Git Steps / cmd
+
+git init
+git config user.email mjversatile@gmail.com
+git config user.name makmukesh
+git commit -m "first commit"
+git remote add origin https://github.com/makmukesh/Test.git
+ git push -u origin master
+
+-- real example
+echo "# Dummy-Shree-Balaji-Automobile" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/makmukesh/Dummy-Shree-Balaji-Automobile.git
+git push -u origin master
